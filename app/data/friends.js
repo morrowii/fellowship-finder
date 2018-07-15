@@ -1,0 +1,1 @@
+module.exports = [{"name":"Stewie Griffin","photo":"https://en.wikipedia.org/wiki/Stewie_Griffin#/media/File:Stewie_Griffin.png","scores":[5,1,4,4,5,1,2,5,4,1]},{"name":"Ryan","photo":"https://avatars1.githubusercontent.com/u/34320108?s=460&v=4","scores":["3","3","3","3","3","3","3","3","3","3"]}]
