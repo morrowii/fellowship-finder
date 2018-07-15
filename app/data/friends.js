@@ -1,1 +1,1 @@
-module.exports = [{"name":"Stewie Griffin","photo":"https://en.wikipedia.org/wiki/Stewie_Griffin#/media/File:Stewie_Griffin.png","scores":[5,1,4,4,5,1,2,5,4,1]},{"name":"Ryan","photo":"https://avatars1.githubusercontent.com/u/34320108?s=460&v=4","scores":["3","3","3","3","3","3","3","3","3","3"]}]
+module.exports = [{"name":"Stewie Griffin","photo":"https://vignette.wikia.nocookie.net/familyguy/images/c/ce/FGuy_Stewie_Gen2012_R3Flat.jpg/revision/latest?cb=20120905115634","scores":[5,1,4,4,5,1,2,5,4,1]}]
